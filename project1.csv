@@ -1,0 +1,16 @@
+Risk_ID,Risk_Name,Probability_Before_%,Impact_Before_%,RiskScore_Before,Probability_After_%,Impact_After_%,RiskScore_After,Reduction_Abs,Reduction_%,Impact_Category_Before,Impact_Category_After
+R01,Customer requirements change mid-project,62,50,31,44,35,15.4,15.6,50.32,Medium,Low
+R02,Restricted access to client servers,75,53,39.75,58,47,27.26,12.49,31.42,Medium,Medium
+R03,Connection to target systems fails,69,63,43.47,41,55,22.55,20.92,48.13,Medium,Medium
+R04,Remote server missing required software,76,42,31.92,39,30,11.7,20.22,63.35,Medium,Low
+R05,Unexpected software dependencies,58,57,33.06,15,39,5.85,27.21,82.3,Medium,Low
+R06,Incomplete end-user testing leading to rework,22,60,13.2,5,43,2.15,11.05,83.71,Medium,Medium
+R07,No access to 3rd party software for testing,57,51,29.07,24,37,8.88,20.19,69.45,Medium,Low
+R08,Data mapping / integrity issues,73,57,41.61,43,46,19.78,21.83,52.46,Medium,Medium
+R09,Source data changes after deployment,63,80,50.4,14,59,8.26,42.14,83.61,High,Medium
+R10,Unidentified edge cases during design,51,41,20.91,22,24,5.28,15.63,74.75,Medium,Low
+R11,Large data volume causing loss on interruption,55,62,34.1,26,55,14.3,19.8,58.06,Medium,Medium
+R12,Incompatible source/destination formats,83,53,43.99,44,47,20.68,23.31,52.99,Medium,Medium
+R13,Intermittent sync between systems,58,65,37.7,17,47,7.99,29.71,78.81,Medium,Medium
+R14,Post-deployment data structure changes,25,54,13.5,5,26,1.3,12.2,90.37,Medium,Low
+R15,High data volumes impacting performance,71,47,33.37,44,31,13.64,19.73,59.12,Medium,Low
